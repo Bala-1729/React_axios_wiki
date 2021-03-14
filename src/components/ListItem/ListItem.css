@@ -1,0 +1,35 @@
+.listContainer {
+  text-align: center;
+  margin: auto;
+}
+
+.data {
+  background-color: lightblue;
+  text-align: center;
+  margin-right: 8px;
+  border-radius: 8px;
+  height: 40px;
+  padding: 10px 150px 10px;
+  display: inline;
+  box-shadow: 5px 5px 8px 2px #4e524f;
+}
+
+.delete {
+  background-color: red;
+  height: 40px;
+  border-radius: 8px;
+  color: black;
+  box-shadow: 5px 5px 8px 2px #4e524f;
+  padding: 12px 10px 12px;
+  margin-left: 8px;
+}
+
+.complete {
+    background-color: red;
+    height: 40px;
+    border-radius: 8px;
+    color: black;
+    box-shadow: 5px 5px 8px 2px #4e524f;
+    padding: 12px 10px 12px;
+    margin-left: 8px;
+  }
